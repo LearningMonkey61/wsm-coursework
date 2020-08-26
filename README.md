@@ -42,7 +42,8 @@ Not yet decided.
       - `git add <. or file list> `
       - `git commit -m "Commit Message"`
    - Set the upstream branch by `git push -u origin BranchName`
-   - Wait for the other collaborators to Switch to the branch and check out the features 
+   - Go to the [Repo](https://github.com/LearningMonkey61/wsm-coursework/) on GitHub, switching the branch finally opening a pull-request.
+   - Wait for the other collaborators to Switch to the branch and check out the features and discuss 
    - If approved by all, the code shall be merged into the master branch
 
 # Made by. 
